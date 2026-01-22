@@ -3,9 +3,9 @@ import 'package:equatable/equatable.dart';
 import '../../../../core/utils/enums.dart';
 
 class GameStateEntity extends Equatable {
-  final List<String> board; // 9 cells
-  final String currentPlayer; // "X" or "O"
-  final String winner; // "", "X", "O", "Draw"
+  final List<String> board;
+  final String currentPlayer;
+  final String winner;
   final GameMode mode;
 
   const GameStateEntity({
