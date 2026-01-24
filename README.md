@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Todo Video link
+# Video link
 https://github.com/user-attachments/assets/04c0b123-1d60-4e6d-8d42-65c14cef4d23
 
 # Flutter Clean Architecture App (BLoC/Cubit)
